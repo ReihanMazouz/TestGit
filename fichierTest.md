@@ -31,4 +31,7 @@ Sur la console
 3/ compléter
 
 #Pour envoyer mon code sur github
-git push origin master
+1/ Aller sur le repository où l'on veut envoyer le
+2/ Copier l'url
+3/ git remote add origin url
+4/ git push -u origin master
